@@ -1,0 +1,12 @@
+{
+    "BROWSER":"Chrome",
+    "PROTOCOL":"http",
+    "HOSTNAME":"172.16.5.33",
+    "PORT":"8080",
+    "PROGRAM":"WoniuBoss2.5",
+    "DBUSER":"root",
+    "DBPASS":"root",
+    "DBNAME":"woniuboss2.5",
+    "USERNAME":"WNCD000",
+    "PASSWORD":"woniu123"
+}
